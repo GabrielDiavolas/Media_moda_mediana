@@ -47,7 +47,7 @@ int main (){
 
     }
 
-    //Moda
+    //Moda - fonte(https://www.ime.usp.br/~kellyrb/mac2166_2014/arquivos/aulas/mac2166_aula23.html)
     cont_moda = 0;
     moda = -1;
     cont = 0;
